@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.scrollback": 1000000000,
+    "jshint.enable": false,
+    "standard.enable": false,
+    "tslint.enable": false
+}
